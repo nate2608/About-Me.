@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nate2608
 - 👀 I’m interested in Coding and  Stack Development
 - 🌱 I’m currently learning Full Stack Cloud Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Mobile Apps
 - 📫 Reach me on nathanwilliams2608@gmail.com
 
 <!---
